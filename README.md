@@ -22,5 +22,20 @@ Commands used in the codes.
 
 **.describe() :**  https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html
 
+**.isna() :**  https://pandas.pydata.org/docs/reference/api/pandas.isna.html
+
+**.any() :** https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.any.html
+
+**.fillna() :** https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.fillna.html
+
+**.value_counts() :** https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.value_counts.html
+
+**.dropna() :** https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dropna.html
+
+**.shape :** https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.shape.html
+
+
+
+
 
 
