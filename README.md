@@ -18,6 +18,9 @@ Compare the monthly sales of each city using a heatmap.
 
 Commands used in the codes.
 
+
+**pandas**
+
 **.read_csv :**  https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html
 
 **.describe() :**  https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.describe.html
@@ -33,6 +36,47 @@ Commands used in the codes.
 **.dropna() :** https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.dropna.html
 
 **.shape :** https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.shape.html
+
+**.loc :** https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.loc.html
+
+**.groupby() :** https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html
+
+**.sort_values() :** https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sort_values.html
+
+**.get_group() :** https://pandas.pydata.org/docs/reference/api/pandas.core.groupby.DataFrameGroupBy.get_group.html
+
+**.aggregate() :** https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.aggregate.html
+
+
+
+
+
+
+
+
+
+**matplotlib**
+
+**.bar() :** https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.bar.html
+
+**.barh() :** https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.barh.html
+
+**.figure() :** https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.figure.html
+
+**.hist():** https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hist.html
+
+**.pie() :** https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.pie.html
+
+**.pilot() :**  https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html
+
+
+
+
+
+
+
+
+
 
 
 
