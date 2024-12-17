@@ -19,7 +19,10 @@ Compare the monthly sales of each city using a heatmap.
 Commands used in the codes.
 
 
+
+
 **pandas**
+
 
 **.read_csv :**  https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html
 
@@ -47,7 +50,11 @@ Commands used in the codes.
 
 **.aggregate() :** https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.aggregate.html
 
+**.apply() :** https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.apply.html
 
+**.idxmax() :** https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.idxmax.html
+
+**.pivot_table() :** https://pandas.pydata.org/docs/reference/api/pandas.pivot_table.html
 
 
 
@@ -56,6 +63,7 @@ Commands used in the codes.
 
 
 **matplotlib**
+
 
 **.bar() :** https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.bar.html
 
@@ -68,6 +76,21 @@ Commands used in the codes.
 **.pie() :** https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.pie.html
 
 **.pilot() :**  https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.plot.html
+
+**.legend() :** https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.legend.html
+
+**.scatter() :** https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.scatter.html
+
+**.colorbar() :** https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.colorbar.html
+
+**.imshow() :** https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.imshow.html
+
+**.yticks() :** https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.yticks.html
+
+
+
+
+
 
 
 
