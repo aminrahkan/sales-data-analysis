@@ -17,4 +17,5 @@ Display the top-selling products per city based on sales quantity using an hbar 
 Compare the monthly sales of each city using a heatmap.
 
 Commands used in the codes.
-. read_csv / https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html
+
+**.read_csv** / https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html
