@@ -1,5 +1,6 @@
 # sales-data-analysis
 Python Programming Exercises
+"This code is designed for educational purposes for students."
 
 Second Series of Python Programming Exercises This series of exercises is designed with the objective of utilizing Python libraries centered around data analysis. Students will be provided with a synthetic dataset of 50,000 records related to the sales of a store's products. Using the introduced tools and solutions, perform the following tasks:
 
@@ -21,7 +22,7 @@ Commands used in the codes.
 
 
 
-**pandas**
+**--pandas--**
 
 
 **.read_csv :**  https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html
@@ -58,11 +59,7 @@ Commands used in the codes.
 
 
 
-
-
-
-
-**matplotlib**
+**--matplotlib--**
 
 
 **.bar() :** https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.bar.html
