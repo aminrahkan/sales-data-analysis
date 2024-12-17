@@ -15,3 +15,6 @@ Conduct a time analysis of sales using a time plot.
 Analyze the relationship between price and sales volume using a scatter plot.
 Display the top-selling products per city based on sales quantity using an hbar chart.
 Compare the monthly sales of each city using a heatmap.
+
+Commands used in the codes.
+. read_csv / https://pandas.pydata.org/docs/reference/api/pandas.read_csv.html
